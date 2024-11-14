@@ -2,7 +2,7 @@ import joblib
 import pandas as pd
 
 # Cargar el modelo previamente guardado
-modelo = joblib.load('mejor_modelo.pkl')
+modelo = joblib.load('mejor_modelo_prestamos.pkl')
 
 # Función para predecir la clase
 def predecir():
@@ -19,6 +19,7 @@ def predecir():
     purpose = input("Propósito del préstamo (purpose): ")
 
     # Crear un DataFrame con los datos ingresados
+    # Aquí añadimos las columnas faltantes 'dti' y 'credit.policy', con valores predeterminados (por ejemplo, 0)
     data = pd.DataFrame({
         'int.rate': [int_rate],
         'installment': [installment],
@@ -27,7 +28,9 @@ def predecir():
         'revol.util': [revol_util],
         'inq.last.6mths': [inq_last_6mths],
         'pub.rec': [pub_rec],
-        'purpose': [purpose]
+        'purpose': [purpose],
+        'dti': [0],  # Valor por defecto para 'dti'
+        'credit.policy': [1]  # Valor por defecto para 'credit.policy'
     })
 
     # Hacer la predicción usando el modelo
@@ -35,9 +38,9 @@ def predecir():
 
     # Mostrar el resultado de la predicción
     if prediccion == 0:
-        print("La predicción es: No aprobado.")
+        print("La predicción es: El préstamo NO será pagado.")
     else:
-        print("La predicción es: Aprobado.")
+        print("La predicción es: El préstamo SERÁ pagado.")
 
 # Llamar a la función para predecir
 if __name__ == "__main__":
