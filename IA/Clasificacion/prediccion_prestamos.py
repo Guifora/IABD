@@ -29,7 +29,6 @@ def predecir():
         'inq.last.6mths': [inq_last_6mths],
         'pub.rec': [pub_rec],
         'purpose': [purpose],
-        'dti': [0],  # Valor por defecto para 'dti'
         'credit.policy': [1]  # Valor por defecto para 'credit.policy'
     })
 
