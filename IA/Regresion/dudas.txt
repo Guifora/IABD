@@ -1,0 +1,14 @@
+Tengo 2 una duda.
+
+1. En el ultimo ejercicio.
+He probado a hacerlo con variables Car y model y luego sin ellas.
+La primera vez que lo he hecho, en la sin las variables car y model me ha dado el RSME 0.25 mas o menos todos los modelos y luego cuando lo he vuelto a ejecutar me salian todos mas o menos 5.
+Y no entiendo porque me ha pasado eso.
+
+2. Tambien en el ultimo ejercicio, mi modelo optimizado es peor que el modelo de entrenamiento.
+eso puede ser por la cantidad de datos que tiene el conjunto de entremiento?
+como podria modificarlo para que fuera mejor?
+he probado muchas pruebas que meha dado chatgpt pero todas dan peor 
+
+gracias
+un saludo.
