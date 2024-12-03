@@ -1,0 +1,37 @@
+title,director_1,director_2,releasedate,imbd,imbd_metascore,rottentomatoes_critics,rottentomatoes_audience,letterboxd,cinemascore,budget,domestic_gross,worldwide_gross
+CREATE TABLE marvel_movies (
+    title STRING,
+    director_1 STRING,
+    director_2 STRING,
+    releasedate STRING,
+    imdb FLOAT,
+    imdb_metascore INT,
+    rottentomatoes_critics FLOAT,
+    rottentomatoes_audience FLOAT,
+    letterboxd FLOAT,
+    cinemascore STRING,
+    budget FLOAT,
+    domestic_gross FLOAT,
+    worldwide_gross FLOAT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE;
+
+hdfs dfs -put /home/hadoop/archivo.csv /user/hive/warehouse/
+hdfs dfs -chown hive:hdfsadmingroup /user/hive/warehouse/Marvel_Movies_Dataset.csv
+hdfs dfs -chmod 644 /user/hive/warehouse/Marvel_Movies_Dataset.csv
+hdfs dfs -chown -R hive:hdfsadmingroup /user/hive/warehouse
+hdfs dfs -chmod -R 1777 /user/hive/warehouse
+hdfs dfs -rm /user/hive/warehouse/Marvel_Movies_Dataset.csv
+
+sudo -u hive hdfs dfs -put /home/hadoop/Marvel_Movies_Dataset.csv /user/hive/warehouse/
+
+
+
+LOAD DATA INPATH '/user/hadoop/Marvel_Movies_Dataset.csv' INTO TABLE marvel_movies
+
+INSERT INTO TABLE `default`.`marvel_movies`
+SELECT * FROM `default`.`hue__tmp_marvel_movies_dataset`;
+
+
