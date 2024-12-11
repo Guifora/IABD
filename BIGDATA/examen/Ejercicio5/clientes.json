@@ -1,0 +1,25 @@
+[{
+  "_id": 0,
+  "empresa": "holotech",
+  "pais": "indonesia"
+},
+{
+  "_id": 1,
+  "empresa": "electroPerez",
+  "pais": "españa"
+},
+{
+  "_id": 2,
+  "empresa": "gianttecnologies",
+  "pais": "estados unidos"
+},
+{
+  "_id": 3,
+  "empresa": "ugarte y asociados",
+  "pais": "españa"
+},
+{
+  "_id": 4,
+  "empresa": "electropacharanga",
+  "pais": "españa"
+}]

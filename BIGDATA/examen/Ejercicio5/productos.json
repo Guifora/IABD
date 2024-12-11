@@ -1,0 +1,56 @@
+[{
+  "_id": 0,
+  "marca": "Apple",
+  "modelo": "ipad",
+  "precio": 1500,
+  "añofabricacion": 2024
+},
+{
+  "_id": 1,
+  "marca": "Apple",
+  "modelo": "iphone",
+  "precio": 1000,
+  "añofabricacion": 2022
+},
+{
+  "_id": 2,
+  "marca": "Apple",
+  "modelo": "macbook pro",
+  "precio": 1500,
+  "añofabricacion": 2024
+},
+{
+  "_id": 3,
+  "marca": "asus",
+  "modelo": "rog ally",
+  "precio": 650,
+  "añofabricacion": 2023
+},
+{
+  "_id": 4,
+  "marca": "asus",
+  "modelo": "zenphone",
+  "precio": 400,
+  "añofabricacion": 2022
+},
+{
+  "_id": 5,
+  "marca": "asus",
+  "modelo": "vivobook",
+  "precio": 1500,
+  "añofabricacion": 2024
+},
+{
+  "_id": 6,
+  "marca": "sony",
+  "modelo": "ps5",
+  "precio": 600,
+  "añofabricacion": 2019
+},
+{
+  "_id": 7,
+  "marca": "sony",
+  "modelo": "xperia",
+  "precio": 200,
+  "añofabricacion": 2010
+}]

@@ -1,0 +1,56 @@
+[{
+  "_id": 0,
+  "empresa": "electropacharanga",
+  "marca": "apple",
+  "modelo": "ipad",
+  "cantidad": 128
+},
+{
+  "_id": 1,
+  "empresa": "ugarte y asociados",
+  "marca": "samsung",
+  "modelo": "xperia",
+  "cantidad": 100
+},
+{
+  "_id": 2,
+  "empresa": "holotech",
+  "marca": "apple",
+  "modelo": "iphone",
+  "cantidad": 300
+},
+{
+  "_id": 3,
+  "empresa": "gianttechnologie",
+  "marca": "asus",
+  "modelo": "zenphone",
+  "cantidad": 150
+},
+{
+  "_id": 4,
+  "empresa": "electropacharanga",
+  "marca": "samsung",
+  "modelo": "xperia",
+  "cantidad": 50
+},
+{
+  "_id": 5,
+  "empresa": "holotech",
+  "marca": "asus",
+  "modelo": "vivobook",
+  "cantidad": 400
+},
+{
+  "_id": 6,
+  "empresa": "electroPerez",
+  "marca": "apple",
+  "modelo": "ipad",
+  "cantidad": 100
+},
+{
+  "_id": 7,
+  "empresa": "electropacharanga",
+  "marca": "apple",
+  "modelo": "ipad",
+  "cantidad": 200
+}]
