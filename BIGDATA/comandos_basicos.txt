@@ -1,0 +1,31 @@
+HADOOP
+
+start-all.sh
+jps
+stop-all.sh
+
+NIFI
+
+/opt/nifi/bin/nifi.sh start
+
+KAFKA
+
+Iniciar Zookeeper
+/opt/kafka/bin/zookeeper-server-start.sh /opt/kafka/config/zookeeper.properties 
+
+Iniciar Broker
+/opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/server.properties
+
+SPARK
+ Iniciar cluster
+ 
+$SPARK_HOME/sbin/start-master.sh
+
+Iniciar Workers
+$SPARK_HOME/sbin/start-workers.sh spark://master:7077
+
+Ejecutar python antes que jupyter
+
+export PYSPARK_PYTHON=/usr/bin/python3
+export PYSPARK_DRIVER_PYTHON=/usr/bin/python3
+
