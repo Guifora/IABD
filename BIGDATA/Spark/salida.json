@@ -1,0 +1,102 @@
+[
+    {
+        "industry":"Finance\/Investors Services",
+        "mean_open":5.1344017914
+    },
+    {
+        "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+        "mean_open":24.8080831922
+    },
+    {
+        "industry":"Other Specialty Stores",
+        "mean_open":84.807188105
+    },
+    {
+        "industry":"Other Consumer Services",
+        "mean_open":43.6701074436
+    },
+    {
+        "industry":"Water Supply",
+        "mean_open":40.5804830773
+    },
+    {
+        "industry":"Banks",
+        "mean_open":21.4412296121
+    },
+    {
+        "industry":"Farming\/Seeds\/Milling",
+        "mean_open":27.7401434445
+    },
+    {
+        "industry":"Medical\/Nursing Services",
+        "mean_open":71.0372895238
+    },
+    {
+        "industry":"Biotechnology: Laboratory Analytical Instruments",
+        "mean_open":102.1523411721
+    },
+    {
+        "industry":"Television Services",
+        "mean_open":119.264276514
+    },
+    {
+        "industry":"Automotive Aftermarket",
+        "mean_open":55.4437369984
+    },
+    {
+        "industry":"Auto Parts:O.E.M.",
+        "mean_open":36.2127435125
+    },
+    {
+        "industry":"Rental\/Leasing Companies",
+        "mean_open":79.7440119397
+    },
+    {
+        "industry":"Medical Specialities",
+        "mean_open":55.3706124927
+    },
+    {
+        "industry":"Specialty Chemicals",
+        "mean_open":37.8968411568
+    },
+    {
+        "industry":"Computer Software: Programming, Data Processing",
+        "mean_open":94.3746746168
+    },
+    {
+        "industry":"Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+        "mean_open":34.646765457
+    },
+    {
+        "industry":"Power Generation",
+        "mean_open":49.85907705
+    },
+    {
+        "industry":"Property-Casualty Insurers",
+        "mean_open":81.7281421515
+    },
+    {
+        "industry":"Real Estate Investment Trusts",
+        "mean_open":42.4087313127
+    },
+    {
+        "industry":"Natural Gas Distribution",
+        "mean_open":26.1734681547
+    },
+    {
+        "industry":"Apparel",
+        "mean_open":44.7754156646
+    },
+    {
+        "industry":"Office Equipment\/Supplies\/Services",
+        "mean_open":43.8034650837
+    },
+    {
+        "industry":"Radio And Television Broadcasting And Communications Equipment",
+        "mean_open":23.679645617
+    },
+    {
+        "industry":"Major Chemicals",
+        "mean_open":1005454.0697625902
+    }
+]
