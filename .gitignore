@@ -2085,3 +2085,54 @@ IA/redes convolucionales/contar_coches/yolo11s/data/502
 IA/redes convolucionales/sam2Main
 IA/redes convolucionales/sam2Main
 IA/redes convolucionales/sam2Main
+BIGDATA/Spark/salesoutput/_SUCCESS
+BIGDATA/Spark/salesoutput/._SUCCESS.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=1/.part-00000-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=1/part-00000-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=10/.part-00008-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=10/.part-00009-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=10/part-00008-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=10/part-00009-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=11/.part-00009-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=11/.part-00010-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=11/part-00009-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=11/part-00010-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=12/.part-00010-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=12/.part-00011-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=12/part-00010-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=12/part-00011-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=2/.part-00000-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=2/.part-00001-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=2/part-00000-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=2/part-00001-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=3/.part-00001-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=3/.part-00002-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=3/part-00001-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=3/part-00002-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=4/.part-00002-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=4/.part-00003-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=4/part-00002-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=4/part-00003-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=5/.part-00003-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=5/.part-00004-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=5/part-00003-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=5/part-00004-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=6/.part-00004-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=6/.part-00005-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=6/part-00004-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=6/part-00005-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=7/.part-00005-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=7/.part-00006-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=7/part-00005-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=7/part-00006-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=8/.part-00006-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=8/.part-00007-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=8/part-00006-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=8/part-00007-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=9/.part-00007-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=9/.part-00008-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2019/Month=9/part-00007-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2019/Month=9/part-00008-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+BIGDATA/Spark/salesoutput/Year=2020/Month=1/.part-00011-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet.crc
+BIGDATA/Spark/salesoutput/Year=2020/Month=1/part-00011-180f34d3-ecb1-478a-90ce-d3003be5aacb.c000.snappy.parquet
+IA/redes convolucionales/sam2Main
